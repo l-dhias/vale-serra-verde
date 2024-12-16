@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+    
+    body{
+        background-image:url(../carousel/forest-path-4697056_1280.jpg);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+    }
+    
+    .container {
+        width: 450px;
+        background-color: #fff;
+        padding: 50px;
+        border-radius: 9px;
+        color: black;
+    }
+    
+    form {
+        margin-bottom: 20px ;
+    }
